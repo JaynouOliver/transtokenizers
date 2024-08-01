@@ -123,3 +123,12 @@ eng-enggnv.txt
 en-bn.tmx.gz
 extracted_alignments.txt
 =0.21.0
+
+
+cleaned_bangla_corpus.txt
+bangla_wikipedia_corpus.txt
+wiki.csv
+wiki.csv:Zone.Identifier
+bangla_bpe.model
+bangla_bpe.vocab
+final_cleaned_bangla_corpus.txt
